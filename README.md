@@ -5,4 +5,4 @@ INE Junior Penetration Tester(eJPT) | ISC2 Certified in Cybersecurity(CC) | Goog
 - 🥝 I’m currently working as a Cyber SOC Analyst.
 - 🍕 I’m currently learning Ethical hacking.
 - 🍔 Know more about me: [My personal portfolio website](https://vegepizza.github.io/)
-- 🍪 Connect me on Linkedin : [My Linkedin](www.linkedin.com/in/zachary-zhi)
+- 🍪 Connect me on LinkedIn : [My LinkedIn](www.linkedin.com/in/zachary-zhi)
