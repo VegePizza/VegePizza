@@ -2,10 +2,10 @@
 - INE Security Junior Penetration Tester(eJPT)
 - ISC2 Certified in Cybersecurity(CC)
 - Google Cybersecurity Professional Certificate
-- Microsoft Security Operations Analyst Associate (SC-200)
 - Splunk Certified Security Operation and Defense Analyst
-- Microsoft Certified Azure Security Engineer Associate (ongoing)
-- AWS Certified Security Specialty (ongoing)
+- Microsoft Security Operations Analyst Associate (SC-200) (preparing)
+- Microsoft Certified Azure Security Engineer Associate (planning)
+- AWS Certified Security Specialty (planning)
 - OffSec Certified Professional (OSCP) (planning)
 
 ## 🎓Auckland University of Technology
