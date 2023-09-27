@@ -13,7 +13,7 @@
 
 ## 🌱 I'm currently working on and learning:
 - I’m currently working as a Cyber SOC Analyst.
-- I’m currently learning Ethical hacking.
+- I’m currently learning Ethical hacking and SOC operation.
 
 ## 📫 How to reach me:
 - Know more about me: [My personal portfolio website](https://vegepizza.github.io/)
