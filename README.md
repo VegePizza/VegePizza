@@ -4,7 +4,7 @@
 - Google Cybersecurity Professional Certificate
 - Splunk Certified Security Operation and Defense Analyst
 - Microsoft Security Operations Analyst Associate (SC-200) (preparing)
-- Microsoft Certified Azure Security Engineer Associate (planning)
+- Microsoft Certified Azure Security Engineer Associate (AZ-500) (planning)
 - AWS Certified Security Specialty (planning)
 - OffSec Certified Professional (OSCP) (planning)
 
