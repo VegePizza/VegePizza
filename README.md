@@ -6,6 +6,8 @@
 - Microsoft Security Operations Analyst Associate (SC-200) (preparing)
 - Microsoft Certified Azure Security Engineer Associate (AZ-500) (planning)
 - AWS Certified Security Specialty (planning)
+- ComTIA Security+ (planning)
+- EC Certified Ethical Hacker (C|EH)
 - OffSec Certified Professional (OSCP) (planning)
 
 ## 🎓Auckland University of Technology
