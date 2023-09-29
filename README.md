@@ -7,7 +7,7 @@
 - Microsoft Certified Azure Security Engineer Associate (AZ-500) (planning)
 - AWS Certified Security Specialty (planning)
 - ComTIA Security+ (planning)
-- EC Certified Ethical Hacker (C|EH)
+- EC Certified Ethical Hacker (C|EH) (planning)
 - OffSec Certified Professional (OSCP) (planning)
 
 ## 🎓Auckland University of Technology
