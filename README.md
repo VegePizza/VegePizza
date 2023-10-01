@@ -8,6 +8,7 @@
 - AWS Certified Security Specialty (planning)
 - ComTIA Security+ (planning)
 - EC Certified Ethical Hacker (C|EH) (planning)
+- TCM Security Practical Network Penetration Tester (PNPT) (planning)
 - OffSec Certified Professional (OSCP) (planning)
 
 ## 🎓Auckland University of Technology
