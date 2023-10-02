@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Zachary Zhi, Cybersecurity Professional.
-- INE Security Junior Penetration Tester(eJPT)
-- ISC2 Certified in Cybersecurity(CC)
+- INE Security Junior Penetration Tester (eJPT)
+- ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
 - Splunk Certified Security Operation and Defense Analyst
 - Microsoft Security Operations Analyst Associate (SC-200) (preparing)
