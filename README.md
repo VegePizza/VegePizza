@@ -12,7 +12,7 @@
 - OffSec Certified Professional (OSCP) (planning)
 
 ## 🎓Auckland University of Technology
-- Software Engineering and Cybersecurity
+- BCIS Software Development and Cybersecurity
 
 ## 🌱 I'm currently working on and learning:
 - I’m currently working as a Cyber SOC Analyst.
