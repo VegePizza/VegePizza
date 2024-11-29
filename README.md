@@ -1,12 +1,12 @@
-## Hi there 👋 My name is Zachary Zhi, Cybersecurity Professional.
-- INE Security Junior Penetration Tester (eJPT)
+## Hi there 👋 My name is Zac Zhi, Cybersecurity Professional.
 - ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
 - Splunk Certified Security Operation and Defense Analyst
-- Microsoft Security Operations Analyst Associate (SC-200) (preparing)
-- ComTIA Security+ (planning)
-- AWS Certified Security Specialty (planning)
-- ISC2 Certified Cloud Security Professional (CCSP) (planning)
+- Microsoft Security Operations Analyst Associate (SC-200)
+- ComTIA Security+
+- Darktrace Certified Visualiser Emssential
+- Zscaler Certified Sales Engineer
+- Crowdstrike Certified Falcon Administrator (CCFA)
 - OffSec Certified Professional (OSCP) (planning)
 
 ## 🎓Auckland University of Technology
@@ -14,7 +14,7 @@
 
 ## 🌱 I'm currently working on and learning:
 - I’m currently working as a Cyber SOC Analyst.
-- I’m currently learning Ethical hacking and SOC operation.
+- I’m currently learning Ethical hacking.
 
 ## 📫 How to reach me:
 - Know more about me: [My personal portfolio website](https://vegepizza.github.io/)
