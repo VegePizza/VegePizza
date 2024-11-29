@@ -2,7 +2,7 @@
 - ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
 - Splunk Certified Security Operation and Defense Analyst
-- Microsoft Security Operations Analyst Associate (SC-200)
+- Microsoft Certified Security Operations Analyst Associate (SC-200)
 - ComTIA Security+
 - Darktrace Certified Visualiser Emssential
 - Zscaler Certified Sales Engineer
