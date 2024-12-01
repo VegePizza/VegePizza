@@ -1,20 +1,19 @@
 ## Hi there 👋 My name is Zac Zhi, Cybersecurity Professional.
 - ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
-- Splunk Certified Security Operation and Defense Analyst
 - Microsoft Certified Security Operations Analyst Associate (SC-200)
 - ComTIA Security+
-- Darktrace Certified Visualiser Emssential
+- Darktrace Threat Visualiser Emssential Certified
 - Zscaler Certified Sales Engineer
+- Zero Trust Certified Associate
 - Crowdstrike Certified Falcon Administrator (CCFA)
-- OffSec Certified Professional (OSCP) (planning)
+- OffSec Certified Professional (OSCP) (preparing)
 
 ## 🎓Auckland University of Technology
 - BCIS Software Development and Cybersecurity
 
-## 🌱 I'm currently working on and learning:
+## 🌱 I'm currently working as:
 - I’m currently working as a Cyber SOC Analyst.
-- I’m currently learning Ethical hacking.
 
 ## 📫 How to reach me:
 - Know more about me: [My personal portfolio website](https://vegepizza.github.io/)
