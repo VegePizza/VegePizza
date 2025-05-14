@@ -12,7 +12,7 @@
 ## 🎓 University of Auckland
 - Master of IT
 ## 🎓Auckland University of Technology
-- BCIS Software Development and Cybersecurity
+- BCIS Software Development and Networks
 
 ## 🌱 I'm currently working as:
 - Security Consultant / Penetration Tester / SOC Analyst.
